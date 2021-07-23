@@ -1,0 +1,17 @@
+https://github.com/weibenfalk/react-rmdb-v3-starter-files
+https://reactjs.org/docs/react-without-jsx.html
+92d1f17c6540b008edbd5d23a60494e4 
+npx create-react-app react-rmdb
+cd react-rmdb 
+npm start  
+
+For React router  https://github.com/ReactTraining/react-router/releases
+npm i history react-router-dom@next
+
+https://styled-components.com/  
+npm i styled-components 
+
+prop-types  (Refractor later with Typescript)
+Run time type checking  for React props and similar objects
+npm i prop-types
+
